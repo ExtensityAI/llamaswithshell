@@ -16,7 +16,7 @@ See more info at the original [Repository](https://github.com/ExtensityAI/symbol
 $> sympkg i ExtensityAI/llamaswithshell
 ```
 
-## Usage
+### Usage
 
 ```bash
 $> symsh --style=ExtensityAI/llamaswithshell
