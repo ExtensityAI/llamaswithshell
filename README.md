@@ -16,6 +16,12 @@ See more info at the original [Repository](https://github.com/ExtensityAI/symbol
 $> sympkg i ExtensityAI/llamaswithshell
 ```
 
+## Usage
+
+```bash
+$> symsh --style=ExtensityAI/llamaswithshell
+```
+
 Enjoy!
 
 ![Example](assets/example.png)
