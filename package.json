@@ -1,0 +1,24 @@
+{
+    "version": "0.0.1",
+    "name": "ExtensityAI/llamaswithshell",
+    "description": "Shell Style replies like in Llamas with Hats",
+    "expressions": [
+        {
+            "module": "src/styles",
+            "type": "LlamasWithHatsFunction"
+        },
+        {
+            "module": "src/styles",
+            "type": "LlamasWithHatsConversation"
+        },
+        {
+            "module": "src/styles",
+            "type": "RetrievalAugmentedLlamasWithHatsConversation"
+        }
+    ],
+    "run": {
+        "module": "src/styles",
+        "type": "LlamasWithHatsConversation"
+    },
+    "dependencies": []
+}
