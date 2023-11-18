@@ -21,7 +21,7 @@ Carl: "Well, you know what they say, Paul. 'An inaccessible file is a secure fil
 Paul: "Carl, that's not how it works... That's not how any of this works!"
 Carl: "Relax, Paul. Have you tried turning it off and on again?"
 
-```python
+```bash
 # Paul: "But Caaaaarl, there's nothing to turn on anymore!"
 sudo reboot
 ```
